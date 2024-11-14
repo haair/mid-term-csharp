@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\dao\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:dao\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\gui\\lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\bus\\bookbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:bus\\bookbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\dao\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:dao\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\updatebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\updatebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\gui\\updatebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\updatebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\searchbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\searchbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\gui\\searchbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\searchbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\updatebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\updatebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|c:\\users\\haair\\documents\\i_24-25\\c#\\src\\winformsapp113\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCCC07C-86DD-4AF9-B2D8-F38BE06E4781}|WinFormsApp113.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.cs",
+              "RelativeDocumentMoniker": "GUI\\UpdateBookForm.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.cs",
+              "RelativeToolTip": "GUI\\UpdateBookForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAewF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:30:41.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:44:35.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DAO\\BookDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BookDAO.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DAO\\BookDAO.cs",
+              "RelativeToolTip": "DAO\\BookDAO.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:26:37.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA+wDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:47:14.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LMS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\LMS.cs",
+              "RelativeDocumentMoniker": "GUI\\LMS.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\LMS.cs [Design]",
+              "RelativeToolTip": "GUI\\LMS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:06:21.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookBUS.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\BUS\\BookBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\BookBUS.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\BUS\\BookBUS.cs",
+              "RelativeToolTip": "BUS\\BookBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:05:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DAO\\Database.cs",
+              "RelativeDocumentMoniker": "DAO\\Database.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DAO\\Database.cs",
+              "RelativeToolTip": "DAO\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:01:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DTO\\Book.cs",
+              "RelativeDocumentMoniker": "DTO\\Book.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\DTO\\Book.cs",
+              "RelativeToolTip": "DTO\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\SearchBookForm.cs",
+              "RelativeDocumentMoniker": "GUI\\SearchBookForm.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\SearchBookForm.cs",
+              "RelativeToolTip": "GUI\\SearchBookForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:14:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.cs",
+              "RelativeDocumentMoniker": "GUI\\UpdateBookForm.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.cs [Design]",
+              "RelativeToolTip": "GUI\\UpdateBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:56.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LMS.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\LMS.cs",
+              "RelativeDocumentMoniker": "GUI\\LMS.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\LMS.cs",
+              "RelativeToolTip": "GUI\\LMS.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:09:40.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\SearchBookForm.cs",
+              "RelativeDocumentMoniker": "GUI\\SearchBookForm.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\SearchBookForm.cs [Design]",
+              "RelativeToolTip": "GUI\\SearchBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:00:52.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateBookForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\UpdateBookForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\UpdateBookForm.Designer.cs",
+              "RelativeToolTip": "GUI\\UpdateBookForm.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:08:56.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\HAAIR\\Documents\\I_24-25\\C#\\src\\WinFormsApp113\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:51:44.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
